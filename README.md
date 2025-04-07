@@ -12,3 +12,5 @@
 
 👉 **[Start your journey today!](https://techwithtim.net/dev)**  
 No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+
+--在B站上面进行简单学习并标注代码形式
